@@ -1,0 +1,53 @@
+{
+       "teams": [
+              {
+                     "players on team": [
+                            {
+                                   "player name": "Kyle Lowry",
+                                   "free throw percentage": 70.6,
+                                   "assists per game": 6.6,
+                                   "rebounds per game": 10.3,
+                                   "field goal percentage": 56.5,
+                                   "points per game": 30.4,
+                                   "is player healthy": true
+                            },
+                            {
+                                   "player name": "Marc Gasol",
+                                   "free throw percentage": 70.6,
+                                   "assists per game": 8.9,
+                                   "rebounds per game": 7.7,
+                                   "field goal percentage": 54.5,
+                                   "points per game": 25.4,
+                                   "is player healthy": false
+                            }
+                     ],
+                     "games lost": 1,
+                     "team name": "Raptors",
+                     "championship size": 1,
+                     "games won": 1,
+                     "team size": 2,
+                     "championships on team": [{"championship year won": 2019}]
+              },
+              {
+                     "players on team": [{
+                            "player name": "Kemba Walker",
+                            "free throw percentage": 80,
+                            "assists per game": 9.6,
+                            "rebounds per game": 5.5,
+                            "field goal percentage": 66.4,
+                            "points per game": 20.3,
+                            "is player healthy": true
+                     }],
+                     "games lost": 1,
+                     "team name": "Celtics",
+                     "championship size": 2,
+                     "games won": 1,
+                     "team size": 1,
+                     "championships on team": [
+                            {"championship year won": 1986},
+                            {"championship year won": 2008}
+                     ]
+              }
+       ],
+       "league name": "Edward's League"
+}

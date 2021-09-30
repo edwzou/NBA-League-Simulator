@@ -1,0 +1,20 @@
+{
+       "teams": [{
+              "players on team": [{
+                     "player name": "Lebron James",
+                     "free throw percentage": 80.4,
+                     "assists per game": 10.3,
+                     "rebounds per game": 8.9,
+                     "field goal percentage": 55.4,
+                     "points per game": 30.5,
+                     "is player healthy": true
+              }],
+              "games lost": 0,
+              "team name": "Lakers",
+              "championship size": 1,
+              "games won": 0,
+              "team size": 1,
+              "championships on team": [{"championship year won": 2020}]
+       }],
+       "league name": "Edward's League"
+}

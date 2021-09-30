@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<eclipse-userlibraries>
+  <library name="json-20200518">
+    <archive path="C:/Users/zennt/UBC/CPSC 210/project_e0x2b/lib/json-20200518.jar" />
+  </library>
+  <library name="lib">
+    <archive path="C:/Users/zennt/UBC/CPSC 210/project_e0x2b/lib/json-20200518.jar" />
+    <archive path="C:/Users/zennt/UBC/CPSC 210/project_e0x2b/lib/opentest4j-1.1.1.jar" />
+    <archive path="C:/Users/zennt/UBC/CPSC 210/project_e0x2b/lib/junit-jupiter-5.4.2.jar" />
+    <archive path="C:/Users/zennt/UBC/CPSC 210/project_e0x2b/lib/apiguardian-api-1.0.0.jar" />
+    <archive path="C:/Users/zennt/UBC/CPSC 210/project_e0x2b/lib/junit-jupiter-api-5.4.2.jar" />
+    <archive path="C:/Users/zennt/UBC/CPSC 210/project_e0x2b/lib/junit-jupiter-engine-5.4.2.jar" />
+    <archive path="C:/Users/zennt/UBC/CPSC 210/project_e0x2b/lib/junit-jupiter-params-5.4.2.jar" />
+    <archive path="C:/Users/zennt/UBC/CPSC 210/project_e0x2b/lib/junit-platform-engine-1.4.2.jar" />
+    <archive path="C:/Users/zennt/UBC/CPSC 210/project_e0x2b/lib/junit-platform-commons-1.4.2.jar" />
+  </library>
+  <library name="lib (2)">
+    <archive path="C:/Users/zennt/UBC/CPSC 210/project_e0x2b/lib/json-20200518.jar" />
+    <archive path="C:/Users/zennt/UBC/CPSC 210/project_e0x2b/lib/opentest4j-1.1.1.jar" />
+    <archive path="C:/Users/zennt/UBC/CPSC 210/project_e0x2b/lib/junit-jupiter-5.4.2.jar" />
+    <archive path="C:/Users/zennt/UBC/CPSC 210/project_e0x2b/lib/apiguardian-api-1.0.0.jar" />
+    <archive path="C:/Users/zennt/UBC/CPSC 210/project_e0x2b/lib/junit-jupiter-api-5.4.2.jar" />
+    <archive path="C:/Users/zennt/UBC/CPSC 210/project_e0x2b/lib/junit-jupiter-engine-5.4.2.jar" />
+    <archive path="C:/Users/zennt/UBC/CPSC 210/project_e0x2b/lib/junit-jupiter-params-5.4.2.jar" />
+    <archive path="C:/Users/zennt/UBC/CPSC 210/project_e0x2b/lib/junit-platform-engine-1.4.2.jar" />
+    <archive path="C:/Users/zennt/UBC/CPSC 210/project_e0x2b/lib/junit-platform-commons-1.4.2.jar" />
+  </library>
+</eclipse-userlibraries>
+

@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<classpath>
+	<classpathentry kind="con" path="org.eclipse.jdt.launching.JRE_CONTAINER"/>
+	<classpathentry kind="src" path="src/test"/>
+	<classpathentry kind="src" path="src/main"/>
+	<classpathentry kind="lib" path="lib/junit-jupiter-5.4.2.jar"/>
+	<classpathentry kind="con" path="org.eclipse.jdt.USER_LIBRARY/json-20200518"/>
+	<classpathentry kind="con" path="org.eclipse.jdt.USER_LIBRARY/lib"/>
+	<classpathentry kind="con" path="org.eclipse.jdt.USER_LIBRARY/lib (2)"/>
+	<classpathentry kind="output" path="out/production/Project-Starter"/>
+</classpath>
